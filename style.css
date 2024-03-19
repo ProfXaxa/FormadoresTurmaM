@@ -1,4 +1,26 @@
-header{
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabecalho{
     background-color: #938D81;
     color: #1A595A;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
+}
+.cabecalhoDaImagem{
+    width: 9%;
+    padding: 0 15px;
+}
+
+.divCabecalhoLogo{
+    display: flex;  
+}
+
+.cabecalhoListaItens{
+    display: inline-block;
+    margin: 0 5px;
+    font-size: 24px;
 }
