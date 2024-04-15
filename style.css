@@ -53,17 +53,12 @@
     padding: 24px 0;
 }
 .escolaDivConteudo{
-    width: 35%;
-    
-
-}
+    width: 35%;}
 .escolaTitulo{
     padding: 24px 0;
-
 }
 .escolaTextoUm{
     padding: 24px 0;
-
 }
 .escolatextodois{
     
@@ -77,4 +72,15 @@
 .estudanteDiv{
     text-align: center;
     padding: 16px 0;
+}
+.estudanteTitulo{
+    text-align: center;
+    padding: 25px 0;
+}
+.estudantesTodos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+.estudante{
+    background-color: #807359;
 }
