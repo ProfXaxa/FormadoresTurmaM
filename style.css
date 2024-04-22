@@ -84,3 +84,19 @@
 .estudante{
     background-color: #807359;
 }
+.rodape{
+    background-color: #4f4d4a ;
+    text-align: center;
+}
+.imagemEndereco{
+    width: 50px;
+}
+.endereco{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.logoRodape{
+    padding: 25px;
+    width: 60px;
+}
